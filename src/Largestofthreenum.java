@@ -12,11 +12,11 @@ public class Largestofthreenum {
         {
             System.out.println( " Student A Got A Distinction : ");
         }
-        else if (a>80)
+        else if (a>90)
         {
             System.out.println( " Student B Got A First Class : ");
         }
-        else if (a>70)
+        else if (a>80)
         {
             System.out.println( " Student C Got A Second Class : ");
         }
